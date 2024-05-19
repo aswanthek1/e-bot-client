@@ -1,0 +1,9 @@
+.header-container {
+    justify-content: space-between;
+}
+
+.header-actions {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
